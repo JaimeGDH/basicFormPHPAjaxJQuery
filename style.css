@@ -1,0 +1,13 @@
+.align-label {
+  width: 200px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+input[type="checkbox"] {
+  margin-left: 15px;
+}
+
+input[type="submit"] {
+  margin-top: 30px;
+}
