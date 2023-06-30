@@ -3,6 +3,7 @@
 
 ## Requisitos del sistema:
 Base de datos utilizada: MySQL 8.0.33
+
 Versión de PHP: 8.1.2
 
 ![image](https://github.com/JaimeGDH/desis/assets/13523127/54205a53-960b-465e-a985-b5f23976db1d)
