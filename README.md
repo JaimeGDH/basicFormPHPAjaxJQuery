@@ -20,12 +20,20 @@ Abre un navegador web y visita http://localhost (o http://localhost:8080 si has 
 ## Validaciones contenidas
 
 • Nombre y Apellido: No debe quedar en Blanco.
+
 • Alias: Validar que la cantidad de caracteres sea mayor a 5 y que contenga letras y
 números.
+
 • RUT: Deberá Validar el RUT (Formato Chile).
+
 • Email: Deberá validar el correo según estándar.
-• Los Combo Box Región y Comuna deben cargar los datos desde Base de Datos. No
-deberán quedar en blanco y entre los combos debe existir relación Región->Comuna.
+
+• Los Combo Box Región y Comuna deben cargar los datos desde Base de Datos.
+
+• No deberán quedar en blanco y entre los combos debe existir relación Región->Comuna.
+
 • El Combo Box Candidato debe cargar los datos desde Base de Datos.
+
 • Checkbox “Como se enteró de Nosotros”: Debe elegir al menos dos opciones.
+
 • Se debe validar la duplicación de votos por RUT.
