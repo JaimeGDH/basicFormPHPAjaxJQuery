@@ -1,5 +1,4 @@
-# Prueba de diagnóstico
-### Se realiza prueba con las validaciones y comportamiento solicitado
+# Ejemplo de formulario con validaciones hecha con PHP, Ajax y JQuery
 
 ## Requisitos del sistema:
 Base de datos utilizada: MySQL 8.0.33
